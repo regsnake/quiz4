@@ -1,0 +1,23 @@
+body{
+   background-color:purple;
+   border-style:dotted;
+   border-color:yellow;
+   border-width:20px;
+}
+
+h1{
+  color:yellow;
+  text-shadow:4px 4px black;
+  font-size: 70px;
+  text-align: center;
+  font-family:serif;
+
+}
+h2{
+  color:yellow;
+  text-shadow:3px 3px black;
+  font-size: 40px;
+  text-align: center;
+  font-family: sans-serif;
+}
+
